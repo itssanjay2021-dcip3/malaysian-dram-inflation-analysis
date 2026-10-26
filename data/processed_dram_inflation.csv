@@ -1,0 +1,13 @@
+brand_model,category,retailer_name,price_myr,stock_status,recorded_date,previous_price_myr,price_change_myr,inflation_pct
+Corsair Vengeance 32GB (2 x 16GB kit) DDR5 6000Mhz,RAM DDR5,Ideal Tech PC,480.0,In Stock,2026-01-15,,,0.0
+Corsair Vengeance 32GB (2 x 16GB kit) DDR5 6000Mhz,RAM DDR5,Ideal Tech PC,530.0,In Stock,2026-04-15,480.0,50.0,10.42
+Corsair Vengeance 32GB (2 x 16GB kit) DDR5 6000Mhz,RAM DDR5,Ideal Tech PC,620.0,Low Stock,2026-07-15,530.0,90.0,29.17
+Corsair Vengeance 32GB (2 x 16GB kit) DDR5 6000Mhz,RAM DDR5,Ideal Tech PC,710.0,Low Stock,2026-10-15,620.0,90.0,47.92
+G.Skill Trident Z5 RGB 48GB (2 x 24GB kit) DDR5 7200Mhz,RAM DDR5,Viewnet Computer System,890.0,In Stock,2026-01-15,,,0.0
+G.Skill Trident Z5 RGB 48GB (2 x 24GB kit) DDR5 7200Mhz,RAM DDR5,Viewnet Computer System,980.0,In Stock,2026-04-15,890.0,90.0,10.11
+G.Skill Trident Z5 RGB 48GB (2 x 24GB kit) DDR5 7200Mhz,RAM DDR5,Viewnet Computer System,1150.0,Low Stock,2026-07-15,980.0,170.0,29.21
+G.Skill Trident Z5 RGB 48GB (2 x 24GB kit) DDR5 7200Mhz,RAM DDR5,Viewnet Computer System,1320.0,Out of Stock,2026-10-15,1150.0,170.0,48.31
+Nvidia Geforce RTX 5070ti 16GB,GPU VRAM,Ideal Tech PC,3850.0,In Stock,2026-01-15,,,0.0
+Nvidia Geforce RTX 5070ti 16GB,GPU VRAM,Ideal Tech PC,3990.0,In Stock,2026-04-15,3850.0,140.0,3.64
+Nvidia Geforce RTX 5070ti 16GB,GPU VRAM,Ideal Tech PC,4250.0,Low Stock,2026-07-15,3990.0,260.0,10.39
+Nvidia Geforce RTX 5070ti 16GB,GPU VRAM,Ideal Tech PC,4480.0,Low Stock,2026-10-15,4250.0,230.0,16.36

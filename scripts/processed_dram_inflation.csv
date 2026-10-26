@@ -1,0 +1,9 @@
+record_id,timestamp,component_model,retailer,price_myr,inflation_pct
+1,2026-10-26 19:54:29,Corsair Vengeance 32GB DDR5,IdealTech,549.0,16.2
+2,2026-10-26 19:54:29,G.Skill Trident Z5 32GB,C-Zone,589.0,18.5
+3,2026-10-26 19:54:29,Kingston Fury Beast 16GB,ThunderMatch,279.0,12.1
+4,2026-10-26 19:59:05,Corsair Vengeance 32GB DDR5,IdealTech,549.0,16.2
+5,2026-10-26 19:59:05,G.Skill Trident Z5 32GB,C-Zone,589.0,18.5
+6,2026-10-26 19:59:05,Kingston Fury Beast 16GB,ThunderMatch,279.0,12.1
+7,2026-10-26 19:59:05,Crucial Pro 32GB DDR5,IdealTech,49.0,9.5
+8,2026-10-26 19:59:05,TeamGroup T-Force Delta 32GB,PC Image,529.0,14.0
